@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on very cool things! 
+- 🌱 I’m currently learning SwiftUI and Machine Learning
+- 💬 Ask me about anything in iOS development 
+- 📫 How to reach me: s.sojik at gmail dot com
+
+My new blog - https://medium.com/@sojik
+My old blog - https://macsoj.wordpress.com
+
+Thank you for visiting!
+
 <!--
 **soj/soj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
